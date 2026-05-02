@@ -4,6 +4,8 @@
   "description": "",
   "main": "main.js",
   "scripts": {
+    // this to enable me to use this code `npm run main.js` to run the script
+    "start": "node .",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
